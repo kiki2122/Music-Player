@@ -28,6 +28,10 @@
   --lightbshadow: rgba(0,0,0,0.15);
 }
 
+@media only screen and (max-width: 768px){
+    background: #1ec2ce;
+}
+
 body{
   display: flex;
   align-items: center;
